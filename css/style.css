@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Bevan|Permanent+Marker');
+
+
+*{
+ margin: 0;
+ padding: 0;
+}
+
+
+
+/*nav bar wit color */
+nav{
+ background-color: black;
+ text-align:center;
+
+}
+ ul{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+ 
+  li {
+   display: inline;
+  
+  
+ }
+ a {
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align:center
+  
+ }
+ /* hovering changes color */
+ li a:hover {
+    color: #999966;
+ }
+ 
+ 
+ #banner h1{
+  font-family: 'Bevan', cursive;
+  text-align: center;
+  border:  2px solid black;
+  background-color: #ebebe0 ;
+  
+ }
+ 
+ 
+ .main1{
+  background-color: #999966;
+   border:  2px solid black;
+ }
+ /* image is centered */
+.main1 img{
+ display: block;
+ margin:  0  auto;
+ margin-top: 5px;
+ border-radius: 25px;
+ 
+}
+
+video{
+ display: block;
+ margin: 0 auto;
+ margin-top: 10px;
+ margin-left: 523px;
+ 
+}
+.main1 p{
+  text-align:center; 
+  margin-top: 5px;
+  margin-bottom: 5px;
+ }
+ 
+ 
+ footer{
+  background-color: black;
+  color: white;
+  padding-top: 5px;
+  border:  2px solid black;
+  font-style: italic;
+ }
+ 
+ 
+  
+  
+  
+
+ 
+ 

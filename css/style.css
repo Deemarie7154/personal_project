@@ -5,6 +5,7 @@
  margin: 0;
  padding: 0;
 }
+ 
 
 
 
@@ -12,6 +13,7 @@
 nav{
  background-color: black;
  text-align:center;
+
 
 }
  ul{
@@ -55,7 +57,8 @@ nav{
 .main1 img{
  display: block;
  margin:  0  auto;
- margin-top: 5px;
+ margin-top: 50px;
+ margin-bottom: 45px;
  border-radius: 25px;
  
 }
@@ -63,23 +66,31 @@ nav{
 video{
  display: block;
  margin: 0 auto;
- margin-top: 10px;
- margin-left: 523px;
- 
+ margin-top: 50px;
+ margin-left: 810px;
+ margin-bottom: 2px;
 }
-.main1 p{
+.main1 h2{
   text-align:center; 
   margin-top: 5px;
   margin-bottom: 5px;
+
+ }
+ .main1 p{
+  text-align: center;
+  margin-bottom: 5px;
+ 
  }
  
- 
  footer{
+  
   background-color: black;
   color: white;
   padding-top: 5px;
-  border:  2px solid black;
+  padding-bottom: 5px;
   font-style: italic;
+  text-align: center;
+ 
  }
  
  
